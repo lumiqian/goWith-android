@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GoWith</string>
+    <string name="participant_name_edit_text">enter your name here</string>
+    <string name="participate_button">I\'m going</string>
 </resources>
